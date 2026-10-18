@@ -62,8 +62,8 @@ Implementar mecanismos de exclusión mutua y sincronización para proteger secci
 
 ### 1. Ejecutar el Backend (Spring Boot)
 Abre una terminal y navega hasta la carpeta del backend:
-cd backend/
-mvn spring-boot:run
-cd frontend/
-npm install
-npm run dev
+- **cd backend/
+- **mvn spring-boot:run
+- **cd frontend/
+- **npm install
+- **npm run dev
